@@ -12,4 +12,4 @@ Trên đây là guide từ một người không chuyên viết lách. Có vẻ 
 - git commit (commit thay đổi từ local)
 - git push (đẩy commit(s) từ local lên server)
 - git pull (kéo thay đổi từ server về local)
-#### Cơ bản như vậy là các bạn đã biết cách là việc vơi git 🙃
+#### Cơ bản như vậy là các bạn đã biết cách là việc với git 🙃
